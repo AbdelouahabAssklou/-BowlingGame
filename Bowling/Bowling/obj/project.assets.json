@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\drago\\.nuget\\packages\\": {},
+    "C:\\Users\\Dell\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drago\\Desktop\\-BowlingGame\\Bowling\\Bowling\\Bowling.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\-BowlingGame\\Bowling\\Bowling\\Bowling.csproj",
       "projectName": "Bowling",
-      "projectPath": "C:\\Users\\drago\\Desktop\\-BowlingGame\\Bowling\\Bowling\\Bowling.csproj",
-      "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drago\\Desktop\\-BowlingGame\\Bowling\\Bowling\\obj\\",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\-BowlingGame\\Bowling\\Bowling\\Bowling.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\-BowlingGame\\Bowling\\Bowling\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

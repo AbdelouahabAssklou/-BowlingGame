@@ -6002,23 +6002,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\drago\\.nuget\\packages\\": {},
+    "C:\\Users\\Dell\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drago\\Desktop\\-BowlingGame\\Bowling\\BowlingTest\\BowlingTest.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\-BowlingGame\\Bowling\\BowlingTest\\BowlingTest.csproj",
       "projectName": "BowlingTest",
-      "projectPath": "C:\\Users\\drago\\Desktop\\-BowlingGame\\Bowling\\BowlingTest\\BowlingTest.csproj",
-      "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drago\\Desktop\\-BowlingGame\\Bowling\\BowlingTest\\obj\\",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\-BowlingGame\\Bowling\\BowlingTest\\BowlingTest.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\-BowlingGame\\Bowling\\BowlingTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6031,8 +6031,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\drago\\Desktop\\-BowlingGame\\Bowling\\Bowling\\Bowling.csproj": {
-              "projectPath": "C:\\Users\\drago\\Desktop\\-BowlingGame\\Bowling\\Bowling\\Bowling.csproj"
+            "C:\\Users\\Dell\\Desktop\\-BowlingGame\\Bowling\\Bowling\\Bowling.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\-BowlingGame\\Bowling\\Bowling\\Bowling.csproj"
             }
           }
         }

@@ -16,3 +16,12 @@ C:\Users\drago\Desktop\-BowlingGame\Bowling\Bowling\obj\Debug\netcoreapp2.1\Bowl
 C:\Users\drago\Desktop\-BowlingGame\Bowling\Bowling\obj\Debug\netcoreapp2.1\Bowling.AssemblyInfo.cs
 C:\Users\drago\Desktop\-BowlingGame\Bowling\Bowling\obj\Debug\netcoreapp2.1\Bowling.dll
 C:\Users\drago\Desktop\-BowlingGame\Bowling\Bowling\obj\Debug\netcoreapp2.1\Bowling.pdb
+C:\Users\Dell\Desktop\-BowlingGame\Bowling\Bowling\bin\Debug\netcoreapp2.1\Bowling.deps.json
+C:\Users\Dell\Desktop\-BowlingGame\Bowling\Bowling\bin\Debug\netcoreapp2.1\Bowling.dll
+C:\Users\Dell\Desktop\-BowlingGame\Bowling\Bowling\bin\Debug\netcoreapp2.1\Bowling.pdb
+C:\Users\Dell\Desktop\-BowlingGame\Bowling\Bowling\obj\Debug\netcoreapp2.1\Bowling.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\-BowlingGame\Bowling\Bowling\obj\Debug\netcoreapp2.1\Bowling.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\-BowlingGame\Bowling\Bowling\obj\Debug\netcoreapp2.1\Bowling.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\-BowlingGame\Bowling\Bowling\obj\Debug\netcoreapp2.1\Bowling.AssemblyInfo.cs
+C:\Users\Dell\Desktop\-BowlingGame\Bowling\Bowling\obj\Debug\netcoreapp2.1\Bowling.dll
+C:\Users\Dell\Desktop\-BowlingGame\Bowling\Bowling\obj\Debug\netcoreapp2.1\Bowling.pdb

@@ -1,9 +1,7 @@
+using Bowling;
+using FluentAssertions;
 using System;
 using Xunit;
-using FluentAssertions;
-using System.Collections.Generic;
-using Bowling;
-using System.Linq;
 
 namespace BowlingTest
 {
@@ -23,6 +21,16 @@ namespace BowlingTest
         }
 
         [Fact]
+        public void When_Pins_Knocked_Number_Is_Invalid_Then_ThrowError()
+        {
+            // Arrange
+            Game game = new Game();
+
+            // Assert & Act
+            Assert.Throws<ArgumentException>(() => game.Roll(-8));
+        }
+
+        [Fact]
         public void When_Play_Round_Then_Return_Result()
         {
             // Arrange
@@ -34,8 +42,8 @@ namespace BowlingTest
             var result = game.PlayRound(score1, score2);
 
             // Assert
-            result[1].Should().Be(5);
-            result[2].Should().Be(3);
+            result[HitEnum.One].Should().Be(5);
+            result[HitEnum.Two].Should().Be(3);
         }
 
         [Fact]
@@ -51,6 +59,22 @@ namespace BowlingTest
 
             // Assert
             result.Should().Be(8);
+        }
+
+        [Fact]
+        public void When_Play_Round_Then_Save_Score()
+        {
+            // Arrange
+            Game game = new Game();
+            int score1 = 5;
+            int score2 = 3;
+
+            // Act
+            var result = game.PlayRound(score1, score2);
+
+            // Assert
+            game.frameScores[1][HitEnum.One].Should().Be(5);
+            game.frameScores[1][HitEnum.Two].Should().Be(3);
         }
     }
 }
