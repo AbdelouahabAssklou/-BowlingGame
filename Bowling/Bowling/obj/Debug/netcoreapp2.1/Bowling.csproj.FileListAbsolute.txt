@@ -1,0 +1,9 @@
+C:\Users\drago\source\repos\BowlingGame\Bowling\Bowling\bin\Debug\netcoreapp2.1\Bowling.deps.json
+C:\Users\drago\source\repos\BowlingGame\Bowling\Bowling\bin\Debug\netcoreapp2.1\Bowling.dll
+C:\Users\drago\source\repos\BowlingGame\Bowling\Bowling\bin\Debug\netcoreapp2.1\Bowling.pdb
+C:\Users\drago\source\repos\BowlingGame\Bowling\Bowling\obj\Debug\netcoreapp2.1\Bowling.csprojAssemblyReference.cache
+C:\Users\drago\source\repos\BowlingGame\Bowling\Bowling\obj\Debug\netcoreapp2.1\Bowling.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\BowlingGame\Bowling\Bowling\obj\Debug\netcoreapp2.1\Bowling.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\BowlingGame\Bowling\Bowling\obj\Debug\netcoreapp2.1\Bowling.AssemblyInfo.cs
+C:\Users\drago\source\repos\BowlingGame\Bowling\Bowling\obj\Debug\netcoreapp2.1\Bowling.dll
+C:\Users\drago\source\repos\BowlingGame\Bowling\Bowling\obj\Debug\netcoreapp2.1\Bowling.pdb

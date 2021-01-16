@@ -1,0 +1,14 @@
+C:\Users\drago\source\repos\BowlingGame\Bowling\BowlingTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\drago\source\repos\BowlingGame\Bowling\BowlingTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\drago\source\repos\BowlingGame\Bowling\BowlingTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\drago\source\repos\BowlingGame\Bowling\BowlingTest\bin\Debug\netcoreapp2.1\BowlingTest.deps.json
+C:\Users\drago\source\repos\BowlingGame\Bowling\BowlingTest\bin\Debug\netcoreapp2.1\BowlingTest.runtimeconfig.json
+C:\Users\drago\source\repos\BowlingGame\Bowling\BowlingTest\bin\Debug\netcoreapp2.1\BowlingTest.runtimeconfig.dev.json
+C:\Users\drago\source\repos\BowlingGame\Bowling\BowlingTest\bin\Debug\netcoreapp2.1\BowlingTest.dll
+C:\Users\drago\source\repos\BowlingGame\Bowling\BowlingTest\bin\Debug\netcoreapp2.1\BowlingTest.pdb
+C:\Users\drago\source\repos\BowlingGame\Bowling\BowlingTest\obj\Debug\netcoreapp2.1\BowlingTest.csprojAssemblyReference.cache
+C:\Users\drago\source\repos\BowlingGame\Bowling\BowlingTest\obj\Debug\netcoreapp2.1\BowlingTest.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\BowlingGame\Bowling\BowlingTest\obj\Debug\netcoreapp2.1\BowlingTest.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\BowlingGame\Bowling\BowlingTest\obj\Debug\netcoreapp2.1\BowlingTest.AssemblyInfo.cs
+C:\Users\drago\source\repos\BowlingGame\Bowling\BowlingTest\obj\Debug\netcoreapp2.1\BowlingTest.dll
+C:\Users\drago\source\repos\BowlingGame\Bowling\BowlingTest\obj\Debug\netcoreapp2.1\BowlingTest.pdb
